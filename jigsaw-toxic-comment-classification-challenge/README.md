@@ -5,8 +5,8 @@ The competition metric was the average of the individual AUCs of each predicted 
 
 # Content of the notebook:
 
-EDA <br />
-Preprocessing of data <br />
-Featurization <br />
-Converting text data to vector form <br />
-Applying different models <br />
+ EDA <br />
+ Preprocessing of data <br />
+ Featurization <br />
+ Converting text data to vector form <br />
+ Applying different models <br />
