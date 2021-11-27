@@ -6,8 +6,8 @@ Identify which questions asked on Quora are duplicates of questions that have al
 
 # Content of the notebook:
 
-EDA <br />
-Preprocessing of data <br />
-Featurization <br />
-Converting text data to vector form <br />
-Applying different models <br />
+ EDA <br />
+ Preprocessing of data <br />
+ Featurization <br />
+ Converting text data to vector form <br />
+ Applying different models <br />
